@@ -1,0 +1,54 @@
+python
+  django
+    rest framework
+    celery
+  aiohttp
+    aiogram
+  FatAPI
+  Flask
+  parsers    
+    requests
+    beautiful soup
+    selenium
+  ollama  
+js
+  react
+    next
+  vue
+    nuxt
+  node
+    express
+  vanilla
+  jquery
+php  
+  bitrix
+    modules
+    components
+    orm
+    rest
+    crm
+    extensions
+  laravel
+  wordpress
+linux
+  nginx
+  apache
+  supervisor
+  ffmpeg
+  rabbitmq
+  memcached
+db
+  mysql
+  postgresql
+  sqlight
+  redis
+  firebase
+  supabase
+telegram
+  bot api
+  client api
+  web apps
+  ton
+    tact
+
+  
